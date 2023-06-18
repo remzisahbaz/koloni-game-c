@@ -1,0 +1,18 @@
+# ninja log v5
+0	132	7061795105256757	CMakeFiles/oyun.dir/main.c.obj	99b730fabbc2e62a
+25	137	7061795105297677	CMakeFiles/oyun.dir/AUretim.c.obj	a8c690668b02bec7
+8	145	7061795105388716	CMakeFiles/oyun.dir/Taktik.c.obj	b98c8c43f4cca8f7
+31	149	7061795105433338	CMakeFiles/oyun.dir/Uretim.c.obj	59ec36498b3fe682
+15	150	7061795105438339	CMakeFiles/oyun.dir/ATaktik.c.obj	1cb17d0ca8cfc715
+1	94	7061798515009119	CMakeFiles/oyun.dir/BUretim.c.obj	654fab72ae9e1a57
+6	108	7061798515175968	CMakeFiles/oyun.dir/Oyun.c.obj	15693adf1c18519
+25	109	7061798515190421	CMakeFiles/oyun.dir/BTaktik.c.obj	a8e8e035f3d77d38
+18	120	7061798515307325	CMakeFiles/oyun.dir/Test.c.obj	d84cc2b2c1aad147
+2	76	7061800120642448	CMakeFiles/oyun.dir/Taktik.c.obj	b98c8c43f4cca8f7
+2	99	7061803974604993	CMakeFiles/oyun.dir/Taktik.c.obj	b98c8c43f4cca8f7
+7	103	7061803974651978	CMakeFiles/oyun.dir/ATaktik.c.obj	1cb17d0ca8cfc715
+32	120	7061803974817103	CMakeFiles/oyun.dir/BTaktik.c.obj	a8e8e035f3d77d38
+13	126	7061803974889721	CMakeFiles/oyun.dir/Test.c.obj	d84cc2b2c1aad147
+25	132	7061803974943335	CMakeFiles/oyun.dir/Oyun.c.obj	15693adf1c18519
+2	74	7061806887419147	CMakeFiles/oyun.dir/Uretim.c.obj	59ec36498b3fe682
+9	108	7061998439585742	CMakeFiles/oyun.dir/AUretim.c.obj	a8c690668b02bec7

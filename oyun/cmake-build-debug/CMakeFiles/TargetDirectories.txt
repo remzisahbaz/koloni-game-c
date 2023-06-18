@@ -1,0 +1,3 @@
+C:/Users/experilabs/OneDrive - SAHA BİLGİ YAZILIM/Desktop/free/koloni/oyun/cmake-build-debug/CMakeFiles/oyun.dir
+C:/Users/experilabs/OneDrive - SAHA BİLGİ YAZILIM/Desktop/free/koloni/oyun/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/experilabs/OneDrive - SAHA BİLGİ YAZILIM/Desktop/free/koloni/oyun/cmake-build-debug/CMakeFiles/rebuild_cache.dir
